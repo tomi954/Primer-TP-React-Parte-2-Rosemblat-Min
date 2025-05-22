@@ -1,0 +1,40 @@
+
+label {
+    color: white;
+  }
+  
+  .u-full-width {
+    width: 100%;
+    margin-bottom: 1rem;
+  }
+  
+  input[type="date"],
+  input[type="time"] {
+    height: 38px;
+    padding: 6px 10px;
+    background-color: #fff;
+    border: 1px solid #D1D1D1;
+    border-radius: 4px;
+    box-shadow: none;
+    box-sizing: border-box;
+  }
+  
+  textarea.u-full-width {
+    min-height: 100px;
+    resize: vertical;
+  }
+  
+  .button-primary {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 1rem;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .button-primary:hover {
+    background-color: #45a049;
+  }
+  
